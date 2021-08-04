@@ -9,3 +9,4 @@ This repository contains only for fun content that I created for learning python
 - **Star Writer:** That project writes your word with stars.
 - **Voice Recognizer:** Basic voice recognition test.
 
+### Published by Yasin Reisoglu - Aug 2021
