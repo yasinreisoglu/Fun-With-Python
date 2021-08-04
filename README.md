@@ -1,6 +1,6 @@
 # Hello!
 ****
-This repository contains only for fun content that I created for learning python so you don't be so serious 😎.
+This repository contains only for fun content that I created for learning python so you don't have to be serious 😎.
 
 #### We got 4 folders over here these are:
 
